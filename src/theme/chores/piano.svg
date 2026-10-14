@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Piano"><title>Piano</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<rect x="8" y="28" width="112" height="76" rx="10" fill="#FFFFFF"/>
+<path d="M30 28 V104 M52 28 V104 M74 28 V104 M98 28 V104" stroke-width="4"/>
+<rect x="24" y="28" width="12" height="44" rx="2" fill="#10183A" stroke-width="3"/><rect x="46" y="28" width="12" height="44" rx="2" fill="#10183A" stroke-width="3"/>
+<rect x="68" y="28" width="12" height="44" rx="2" fill="#10183A" stroke-width="3"/><rect x="92" y="28" width="12" height="44" rx="2" fill="#10183A" stroke-width="3"/>
+<rect x="8" y="16" width="112" height="16" rx="6" fill="#8B5CF6"/>
+<path d="M98 108 V118 M98 108 L112 112" fill="none" stroke-width="0"/>
+</g></svg>

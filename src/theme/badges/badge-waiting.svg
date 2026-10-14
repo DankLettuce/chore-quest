@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Waiting"><title>Waiting</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#FFD23F"/>
+<path d="M40 26 H88 M40 102 H88" stroke-width="8"/><path d="M44 28 Q44 52 64 64 Q44 76 44 100 H84 Q84 76 64 64 Q84 52 84 28Z" fill="#FFFFFF"/>
+<path d="M54 92 Q64 80 74 92Z" fill="#FF7A1A" stroke-width="3"/><path d="M54 40 H74 Q70 50 64 54 Q58 50 54 40Z" fill="#FF7A1A" stroke-width="3"/>
+</g></svg>

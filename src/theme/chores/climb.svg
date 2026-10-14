@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Climb"><title>Climb</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M6 118 L50 34 L64 56 L78 40 L122 118Z" fill="#8A93B8"/>
+<path d="M50 34 L36 62 L46 58 L54 66 L64 56Z" fill="#FFFFFF" stroke-width="4"/>
+<path d="M78 40 V8" stroke-width="5"/><path d="M78 10 L104 18 L78 28Z" fill="#FF7A1A" stroke-width="4"/>
+<circle cx="40" cy="96" r="5" fill="#FFD23F" stroke-width="3"/><circle cx="64" cy="84" r="5" fill="#6BDB4B" stroke-width="3"/><circle cx="86" cy="98" r="5" fill="#FF7A1A" stroke-width="3"/><circle cx="74" cy="66" r="5" fill="#4D8BFF" stroke-width="3"/>
+</g></svg>

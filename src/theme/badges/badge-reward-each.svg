@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Reward each time"><title>Reward each time</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#19C3C8"/>
+<rect x="28" y="56" width="72" height="46" rx="6" fill="#FF7A1A"/><rect x="22" y="40" width="84" height="20" rx="6" fill="#FFD23F"/>
+<path d="M64 40 V102" stroke-width="10"/><path d="M64 40 V102" stroke="#8B5CF6" stroke-width="4"/>
+<path d="M64 40 Q44 16 38 30 Q36 40 64 40 Q92 40 90 30 Q84 16 64 40Z" fill="#8B5CF6" stroke-width="5"/>
+</g></svg>

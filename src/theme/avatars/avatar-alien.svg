@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Alien buddy">
+<title>Alien buddy</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#FF7A1A"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="206.0,171.0 203.6,176.7 197.4,177.2 202.1,181.3 200.7,187.3 206.0,184.1 211.3,187.3 209.9,181.3 214.6,177.2 208.4,176.7" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="44.0,183.0 42.1,187.5 37.3,187.8 41.0,191.0 39.9,195.7 44.0,193.2 48.1,195.7 47.0,191.0 50.7,187.8 45.9,187.5" fill="#FFFFFF" stroke="none" opacity="0.9"/>
+
+<path d="M50 270 C50 210 86 196 128 196 C170 196 206 210 206 270Z" fill="#4CB83A"/>
+<path d="M100 76 C92 56 80 46 66 44" fill="none"/><circle cx="62" cy="42" r="12" fill="#FFD23F"/>
+<path d="M156 76 C164 56 176 46 190 44" fill="none"/><circle cx="194" cy="42" r="12" fill="#FFD23F"/>
+<path d="M62 120 L34 104 L56 146Z" fill="#6BDB4B"/><path d="M194 120 L222 104 L200 146Z" fill="#6BDB4B"/>
+<ellipse cx="128" cy="134" rx="74" ry="66" fill="#6BDB4B"/>
+<ellipse cx="100" cy="124" rx="20" ry="24" fill="#FFFFFF" stroke-width="7"/><ellipse cx="156" cy="124" rx="20" ry="24" fill="#FFFFFF" stroke-width="7"/>
+<circle cx="103" cy="128" r="11" fill="#10183A" stroke="none"/><circle cx="159" cy="128" r="11" fill="#10183A" stroke="none"/>
+<circle cx="107" cy="123" r="3.5" fill="#fff" stroke="none"/><circle cx="163" cy="123" r="3.5" fill="#fff" stroke="none"/>
+<path d="M104 164 Q128 184 152 164" fill="none" stroke-width="7"/>
+<path d="M122 172 L122 180 L132 180 L132 173" fill="#FFFFFF" stroke-width="4"/>
+
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>

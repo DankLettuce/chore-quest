@@ -1,0 +1,62 @@
+{
+  "name": "Space Explorers",
+  "avatars": [
+    "img:avatars/avatar-astronaut.svg",
+    "img:avatars/avatar-robot.svg",
+    "img:avatars/avatar-alien.svg",
+    "img:avatars/avatar-pilot.svg",
+    "img:avatars/avatar-rover.svg",
+    "img:avatars/avatar-captain.svg",
+    "img:avatars/avatar-astronaut-blond.svg",
+    "img:avatars/avatar-captain-brown.svg"
+  ],
+  "colors": [
+    "#19C3C8",
+    "#8B5CF6",
+    "#6BDB4B",
+    "#FFD23F",
+    "#4D8BFF",
+    "#FF7A1A"
+  ],
+  "choreIcons": [
+    "img:chores/make-bed.svg",
+    "img:chores/brush-teeth.svg",
+    "img:chores/feed-pet.svg",
+    "img:chores/take-out-trash.svg",
+    "img:chores/clean-room.svg",
+    "img:chores/homework.svg",
+    "img:chores/reading.svg",
+    "img:chores/laundry.svg",
+    "img:chores/dishes.svg",
+    "img:chores/tidy-toys.svg",
+    "img:chores/generic.svg"
+  ],
+  "choreEmoji": [
+    "img:chores/get-dressed.svg",
+    "img:chores/backpack.svg",
+    "img:chores/teddy-bear.svg",
+    "img:chores/set-table.svg",
+    "img:chores/dog.svg",
+    "img:chores/cat.svg",
+    "img:chores/water-plants.svg",
+    "img:chores/books.svg",
+    "img:chores/pencil.svg",
+    "img:chores/piano.svg",
+    "img:chores/sponge.svg",
+    "img:chores/shower.svg",
+    "img:chores/shoes.svg",
+    "img:chores/cereal-bowl.svg",
+    "img:chores/socks.svg",
+    "img:chores/car.svg",
+    "img:chores/rake-leaves.svg",
+    "img:chores/bath.svg",
+    "img:chores/bedtime.svg",
+    "img:chores/run.svg",
+    "img:chores/paint.svg",
+    "img:chores/puzzle.svg",
+    "img:chores/soccer.svg",
+    "img:chores/star.svg"
+  ],
+  "sound": "/theme/sound/check.mp3",
+  "soundFallback": "/theme/sound/check.wav"
+}

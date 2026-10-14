@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Star badge"><title>Star badge</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M40 84 L26 122 L44 114 L54 128 L64 92Z" fill="#19C3C8"/><path d="M88 84 L102 122 L84 114 L74 128 L64 92Z" fill="#8B5CF6"/>
+<circle cx="64" cy="56" r="48" fill="#FF7A1A"/>
+<polygon points="64.0,24.0 54.4,44.8 31.7,47.5 48.5,63.0 44.0,85.5 64.0,74.3 84.0,85.5 79.5,63.0 96.3,47.5 73.6,44.8" fill="#FFD23F" stroke-width="5"/>
+
+</g></svg>

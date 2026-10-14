@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Puzzle"><title>Puzzle</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M14 30 H44 Q40 14 56 14 Q72 14 68 30 H98 V60 Q114 56 114 72 Q114 88 98 84 V114 H68 Q72 98 56 98 Q40 98 44 114 H14 V84 Q30 88 30 72 Q30 56 14 60Z" fill="#8B5CF6"/>
+<path d="M56 30 V114 M14 72 H98" stroke-width="0"/>
+<path d="M56 52 Q56 64 68 64 Q56 64 56 76 Q56 64 44 64 Q56 64 56 52Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

@@ -1,0 +1,10 @@
+name = "chore-quest"
+pages_build_output_dir = "dist"
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "chore-quest"
+# Run `npx wrangler d1 create chore-quest` and paste the id it prints here.
+# (Local dev and tests work with this placeholder; only remote deploys need the real id.)
+database_id = "00000000-0000-0000-0000-000000000000"

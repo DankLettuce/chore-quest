@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Feed pet"><title>Feed pet</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="40" cy="30" r="9" fill="#8A5A3B" stroke-width="4"/><circle cx="62" cy="22" r="9" fill="#8A5A3B" stroke-width="4"/><circle cx="84" cy="30" r="9" fill="#8A5A3B" stroke-width="4"/>
+<ellipse cx="62" cy="52" rx="15" ry="13" fill="#8A5A3B" stroke-width="4"/>
+<path d="M22 74 Q64 58 106 74" fill="#C98A4B"/>
+<circle cx="44" cy="70" r="6" fill="#A86B45" stroke-width="3"/><circle cx="62" cy="66" r="6" fill="#A86B45" stroke-width="3"/><circle cx="80" cy="70" r="6" fill="#A86B45" stroke-width="3"/>
+<path d="M12 74 H116 L104 108 Q102 114 96 114 H32 Q26 114 24 108Z" fill="#FF7A1A"/>
+<line x1="24" y1="88" x2="104" y2="88" stroke="#FFFFFF" stroke-width="6" opacity=".7"/>
+</g></svg>

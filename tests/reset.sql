@@ -1,0 +1,10 @@
+DELETE FROM completions; DELETE FROM bonuses; DELETE FROM payouts; DELETE FROM sessions;
+DELETE FROM kids; DELETE FROM chores;
+DELETE FROM settings WHERE k IN ('seeded', 'pin_hash', 'pin_fails', 'pin_lock_until', 'pin_fail_total', 'family_key_enc');
+UPDATE settings SET v = '10' WHERE k = 'daily_bonus_minutes';
+UPDATE settings SET v = '0' WHERE k = 'daily_bonus_cents';
+UPDATE settings SET v = '30' WHERE k = 'weekly_bonus_minutes';
+UPDATE settings SET v = '200' WHERE k = 'weekly_bonus_cents';
+DELETE FROM sqlite_sequence;
+DELETE FROM rotation_overrides; DELETE FROM goal_claims; DELETE FROM goals;
+DELETE FROM repeat_checks;

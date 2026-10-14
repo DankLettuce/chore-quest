@@ -1,0 +1,122 @@
+/* Space Explorers — design tokens for the chore tracker
+   Fonts: Google Fonts only (Fredoka + Andika). Add to <head>:
+   <link rel="preconnect" href="https://fonts.googleapis.com">
+   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+   <link href="https://fonts.googleapis.com/css2?family=Andika:wght@400;700&family=Fredoka:wght@500;600;700&display=swap" rel="stylesheet">
+   (Or self-host the two families from /fonts to avoid any third-party request; same names.) */
+
+:root {
+  /* ---- Space (backgrounds) ---- */
+  --space-900: #0B1433;   /* page background, deep navy */
+  --space-800: #121D45;   /* header band / nav */
+  --space-700: #1A2654;   /* raised dark panel */
+  --space-600: #24336B;   /* panel border, empty progress track */
+
+  /* ---- Surfaces (cards are light so a 6-year-old reads dark-on-light) ---- */
+  --card:        #F5F7FF; /* "moon white" chore card */
+  --card-done:   #DFF7E9; /* card after check-off */
+  --card-border: #10183A;
+
+  /* ---- Text ---- */
+  --ink:        #10183A;  /* text on card + on every bright accent (6.6:1 to 16:1) */
+  --ink-soft:   #4A5578;  /* secondary text on card (6.9:1) */
+  --on-space:   #FFFFFF;  /* text on navy (18:1) */
+  --on-space-soft: #B8C4E8; /* secondary text on navy (10.4:1) */
+
+  /* ---- Bright accents ---- */
+  --rocket-orange: #FF7A1A;
+  --planet-teal:   #19C3C8;
+  --star-yellow:   #FFD23F;
+  --alien-green:   #6BDB4B;
+  --nebula-purple: #8B5CF6; /* decoration only */
+  --nebula-strong: #6D3FE6; /* purple that carries WHITE text (6.0:1) */
+  --comet-blue:    #4D8BFF;
+
+  /* ---- Status ---- */
+  --success:      #2FBF71;  /* fill; ink text on it 7.3:1 */
+  --success-text: #13804A;  /* green text on card 4.7:1 */
+  --warning:      #FFB020;  /* friendly amber ("not yet!"), never red; ink text 9.5:1 */
+  --warning-text: #9A5B00;  /* amber text on card 5.1:1 */
+
+  /* ---- Type ---- */
+  --font-display: "Fredoka", "Baloo 2", ui-rounded, "SF Pro Rounded", system-ui, sans-serif;
+  --font-body:    "Andika", "Lexend", system-ui, -apple-system, sans-serif;
+  --fs-body:   1.25rem;  /* 20px minimum body */
+  --fs-lg:     1.5rem;   /* 24px chore names */
+  --fs-xl:     2rem;     /* 32px section titles */
+  --fs-2xl:    2.75rem;  /* 44px kid name / greeting */
+  --fs-3xl:    4rem;     /* 64px "All done!" */
+  --fs-small:  1.125rem; /* 18px — labels only, never instructions */
+  --lh-body:   1.4;
+  --lh-tight:  1.1;
+
+  /* ---- Shape & space ---- */
+  --radius-sm: 12px;
+  --radius-md: 20px;
+  --radius-lg: 28px;
+  --radius-pill: 999px;
+  --stroke: 4px;           /* outline weight on cards/buttons (matches icon strokes) */
+  --space-1: 8px; --space-2: 12px; --space-3: 16px; --space-4: 24px; --space-5: 32px; --space-6: 48px;
+  --touch-min: 56px;       /* minimum tap target */
+  --touch-lg: 72px;        /* checkbox / primary buttons */
+  --shadow-pop: 0 6px 0 var(--ink); /* chunky "sticker" drop, no blur */
+}
+
+/* ---- Base ---- */
+html { background: var(--space-900); color: var(--on-space); font: 400 var(--fs-body)/var(--lh-body) var(--font-body); }
+h1, h2, h3, .display { font-family: var(--font-display); font-weight: 600; line-height: var(--lh-tight); letter-spacing: .01em; }
+
+/* ---- Chore card ---- */
+.card {
+  display: flex; align-items: center; gap: var(--space-4);
+  min-height: 96px; padding: var(--space-3) var(--space-4);
+  background: var(--card); color: var(--ink);
+  border: var(--stroke) solid var(--card-border); border-radius: var(--radius-lg);
+  box-shadow: var(--shadow-pop);
+  font: 700 var(--fs-lg)/1.2 var(--font-body);
+}
+.card .icon { width: 64px; height: 64px; flex: none; font-size: 52px; line-height: 64px; text-align: center; } /* emoji or SVG */
+.card.is-done { background: var(--card-done); }
+.card.is-done .label { text-decoration: line-through; text-decoration-thickness: 3px; text-decoration-color: var(--success); }
+
+/* ---- Buttons ---- */
+.btn {
+  min-height: var(--touch-lg); min-width: var(--touch-lg); padding: 0 var(--space-5);
+  border: var(--stroke) solid var(--ink); border-radius: var(--radius-pill);
+  background: var(--rocket-orange); color: var(--ink);
+  font: 600 var(--fs-lg)/1 var(--font-display);
+  box-shadow: var(--shadow-pop); cursor: pointer;
+  transition: transform .08s ease, box-shadow .08s ease;
+}
+.btn:active { transform: translateY(4px); box-shadow: 0 2px 0 var(--ink); }
+.btn--teal { background: var(--planet-teal); }
+.btn--yellow { background: var(--star-yellow); }
+.btn--purple { background: var(--nebula-strong); color: #fff; }
+.btn--ghost { background: transparent; color: var(--on-space); border-color: var(--on-space-soft); box-shadow: none; }
+.btn:focus-visible, .check:focus-visible { outline: 4px solid var(--star-yellow); outline-offset: 4px; }
+
+/* ---- Big round checkbox ---- */
+.check {
+  appearance: none; -webkit-appearance: none; margin: 0 0 0 auto; flex: none;
+  width: var(--touch-lg); height: var(--touch-lg);
+  border: 5px solid var(--ink); border-radius: 50%;
+  background: #fff; cursor: pointer; display: grid; place-content: center;
+  transition: background .15s ease;
+}
+.check::after {
+  content: ""; width: 34px; height: 18px; margin-top: -8px;
+  border: solid var(--ink); border-width: 0 0 7px 7px; border-radius: 3px;
+  transform: rotate(-45deg) scale(0); transition: transform .18s cubic-bezier(.3,1.6,.5,1);
+}
+.check:checked { background: var(--success); }
+.check:checked::after { transform: rotate(-45deg) scale(1); }
+
+/* ---- Reward counter pill ---- */
+.pill { display: inline-flex; align-items: center; gap: var(--space-2); min-height: var(--touch-min);
+  padding: 0 var(--space-4) 0 var(--space-2); border-radius: var(--radius-pill);
+  background: var(--space-700); border: 3px solid var(--space-600); color: var(--on-space);
+  font: 600 var(--fs-xl)/1 var(--font-display); }
+.pill img { width: 44px; height: 44px; }
+
+/* ---- Header band (uses header/header-pattern.svg) ---- */
+.app-header { background: var(--space-800) url("header/header-pattern.svg") repeat; background-size: 320px; }

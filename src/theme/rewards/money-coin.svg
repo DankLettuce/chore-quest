@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Coin"><title>Coin</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<circle cx="64" cy="66" r="54" fill="#E8A100"/>
+<circle cx="64" cy="62" r="54" fill="#FFD23F"/>
+<circle cx="64" cy="62" r="40" fill="none" stroke="#E8A100" stroke-width="6"/>
+<path d="M76 50 C72 44 66 42 62 38 C52 42 46 48 46 55 C46 70 80 62 80 80 C80 88 72 92 64 92 C58 92 52 90 48 84" fill="none" stroke-width="8"/><line x1="64" y1="32" x2="64" y2="100" stroke-width="8"/>
+<path d="M30 40 A40 40 0 0 1 48 26" fill="none" stroke="#FFFFFF" stroke-width="6" opacity=".9"/>
+
+</g></svg>

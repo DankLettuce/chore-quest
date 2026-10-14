@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Breakfast"><title>Breakfast</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="42" cy="50" r="10" fill="#FFD23F" stroke-width="4"/><circle cx="64" cy="44" r="10" fill="#FF8FA3" stroke-width="4"/><circle cx="86" cy="50" r="10" fill="#6BDB4B" stroke-width="4"/>
+<circle cx="42" cy="50" r="3" fill="#10183A" stroke-width="0"/><circle cx="64" cy="44" r="3" fill="#10183A" stroke-width="0"/><circle cx="86" cy="50" r="3" fill="#10183A" stroke-width="0"/>
+<path d="M98 62 L116 18" stroke-width="10"/><path d="M98 62 L116 18" stroke="#B8C4E8" stroke-width="4"/>
+<path d="M10 60 H118 Q116 108 70 112 H58 Q12 108 10 60Z" fill="#19C3C8"/>
+<path d="M30 76 Q64 86 98 76" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+</g></svg>

@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Water plants"><title>Water plants</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M64 76 V40" stroke="#13804A" stroke-width="8"/><path d="M64 76 V40" stroke="#6BDB4B" stroke-width="3"/>
+<path d="M64 52 Q36 54 26 26 Q56 22 64 52Z" fill="#6BDB4B"/>
+<path d="M64 44 Q74 14 106 14 Q102 46 64 44Z" fill="#2FBF71"/>
+<path d="M28 74 H100 L92 116 Q91 120 86 120 H42 Q37 120 36 116Z" fill="#FF7A1A"/>
+<rect x="22" y="68" width="84" height="18" rx="6" fill="#FF9A4A"/>
+<path d="M108 52 Q108 62 118 62 Q108 62 108 72 Q108 62 98 62 Q108 62 108 52Z" fill="#19C3C8" stroke-width="4"/>
+</g></svg>

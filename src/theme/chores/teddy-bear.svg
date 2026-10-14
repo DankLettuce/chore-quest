@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Teddy bear"><title>Teddy bear</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="32" cy="28" r="14" fill="#C98A4B"/><circle cx="96" cy="28" r="14" fill="#C98A4B"/>
+<circle cx="32" cy="28" r="6" fill="#F2C9A0" stroke-width="3"/><circle cx="96" cy="28" r="6" fill="#F2C9A0" stroke-width="3"/>
+<ellipse cx="64" cy="98" rx="34" ry="24" fill="#C98A4B"/>
+<circle cx="64" cy="52" r="34" fill="#C98A4B"/>
+<ellipse cx="64" cy="64" rx="15" ry="11" fill="#F2C9A0" stroke-width="4"/>
+<ellipse cx="64" cy="59" rx="6" ry="4" fill="#10183A" stroke-width="2"/>
+<circle cx="50" cy="46" r="4.5" fill="#10183A" stroke-width="0"/><circle cx="78" cy="46" r="4.5" fill="#10183A" stroke-width="0"/>
+<path d="M56 70 Q64 76 72 70" fill="none" stroke-width="4"/>
+<path d="M50 88 L64 96 L78 88 L78 104 L64 96 L50 104Z" fill="#FF7A1A" stroke-width="4"/>
+</g></svg>

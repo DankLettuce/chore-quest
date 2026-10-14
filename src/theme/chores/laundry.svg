@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Laundry"><title>Laundry</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M40 22 L24 30 L10 48 L24 58 L32 50 V70 H96 V50 L104 58 L118 48 L104 30 L88 22 Q64 36 40 22Z" fill="#8B5CF6"/>
+<path d="M14 64 H114 L104 116 Q103 120 98 120 H30 Q25 120 24 116Z" fill="#FFD23F"/>
+<path d="M30 82 H98 M34 100 H94" stroke="#E8A100" stroke-width="6"/>
+<path d="M14 64 H114 L104 116 Q103 120 98 120 H30 Q25 120 24 116Z" fill="none"/>
+</g></svg>

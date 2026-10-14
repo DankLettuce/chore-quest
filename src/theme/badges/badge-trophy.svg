@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Trophy"><title>Trophy</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#8B5CF6"/>
+<path d="M36 34 Q18 34 22 52 Q26 64 42 64 M92 34 Q110 34 106 52 Q102 64 86 64" fill="none" stroke-width="7"/>
+<path d="M38 26 H90 V50 Q90 76 64 78 Q38 76 38 50Z" fill="#FFD23F"/><path d="M58 78 H70 V90 H58Z" fill="#E8A100" stroke-width="5"/>
+<rect x="40" y="90" width="48" height="14" rx="5" fill="#E8A100"/>
+</g></svg>

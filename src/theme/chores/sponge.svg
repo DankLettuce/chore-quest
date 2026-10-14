@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Scrub"><title>Scrub</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<rect x="16" y="54" width="96" height="58" rx="14" fill="#FFD23F"/>
+<rect x="16" y="54" width="96" height="20" rx="8" fill="#6BDB4B"/>
+<circle cx="40" cy="92" r="5" fill="#E8A100" stroke-width="3"/><circle cx="64" cy="98" r="4" fill="#E8A100" stroke-width="3"/><circle cx="88" cy="90" r="6" fill="#E8A100" stroke-width="3"/>
+<circle cx="36" cy="32" r="14" fill="#B8E9FF" stroke-width="5"/><circle cx="66" cy="22" r="10" fill="#B8E9FF" stroke-width="5"/><circle cx="92" cy="34" r="12" fill="#B8E9FF" stroke-width="5"/>
+<path d="M112 11 Q112 20 121 20 Q112 20 112 29 Q112 20 103 20 Q112 20 112 11Z" fill="#19C3C8" stroke-width="4"/>
+</g></svg>

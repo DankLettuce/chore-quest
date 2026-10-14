@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Cat"><title>Cat</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M26 54 L24 14 L54 32Z" fill="#FFD23F"/><path d="M102 54 L104 14 L74 32Z" fill="#FFD23F"/>
+<path d="M32 40 L31 24 L44 32Z M96 40 L97 24 L84 32Z" fill="#FF8FA3" stroke-width="3"/>
+<ellipse cx="64" cy="70" rx="44" ry="40" fill="#FFD23F"/>
+<path d="M54 34 L58 46 M64 32 V46 M74 34 L70 46" fill="none" stroke-width="4"/>
+<ellipse cx="46" cy="66" rx="6" ry="8" fill="#6BDB4B" stroke-width="3"/><ellipse cx="82" cy="66" rx="6" ry="8" fill="#6BDB4B" stroke-width="3"/>
+<path d="M58 80 L70 80 L64 87Z" fill="#FF8FA3" stroke-width="3"/>
+<path d="M64 87 Q58 96 52 92 M64 87 Q70 96 76 92" fill="none" stroke-width="4"/>
+<path d="M30 82 L8 78 M30 90 L10 96 M98 82 L120 78 M98 90 L118 96" stroke-width="4"/>
+</g></svg>

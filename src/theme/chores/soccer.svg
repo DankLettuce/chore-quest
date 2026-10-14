@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Soccer"><title>Soccer</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="50" fill="#FFFFFF"/>
+<polygon points="64.0,46.0 79.2,57.1 73.4,74.9 54.6,74.9 48.8,57.1" fill="#10183A" stroke-width="4"/>
+<path d="M64 46 V22 M79 57 L102 48 M73 75 L88 96 M55 75 L40 96 M49 57 L26 48" fill="none" stroke-width="4"/>
+<path d="M54 16 L64 22 L74 16 M104 38 L102 48 L112 58 M98 102 L88 96 L84 108 M30 102 L40 96 L44 108 M24 38 L26 48 L16 58" fill="#10183A" stroke-width="4"/>
+</g></svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Friendly robot">
+<title>Friendly robot</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#8B5CF6"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="48.0,51.0 45.6,56.7 39.4,57.2 44.1,61.3 42.7,67.3 48.0,64.0 53.3,67.3 51.9,61.3 56.6,57.2 50.4,56.7" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="210.0,188.0 207.9,193.1 202.4,193.5 206.6,197.1 205.3,202.5 210.0,199.6 214.7,202.5 213.4,197.1 217.6,193.5 212.1,193.1" fill="#FFFFFF" stroke="none" opacity="0.9"/>
+
+<rect x="66" y="198" width="124" height="90" rx="24" fill="#A9B8D6"/>
+<circle cx="128" cy="230" r="13" fill="#FF7A1A"/>
+<rect x="110" y="178" width="36" height="24" fill="#7F8FB2"/>
+<line x1="128" y1="70" x2="128" y2="42"/><circle cx="128" cy="36" r="13" fill="#FFD23F"/>
+<rect x="40" y="108" width="22" height="44" rx="10" fill="#FF7A1A"/><rect x="194" y="108" width="22" height="44" rx="10" fill="#FF7A1A"/>
+<rect x="58" y="68" width="140" height="116" rx="34" fill="#DDE5F4"/>
+<circle cx="102" cy="116" r="20" fill="#FFFFFF" stroke-width="7"/><circle cx="154" cy="116" r="20" fill="#FFFFFF" stroke-width="7"/>
+<circle cx="104" cy="118" r="10" fill="#19C3C8" stroke="none"/><circle cx="156" cy="118" r="10" fill="#19C3C8" stroke="none"/>
+<path d="M104 152 Q128 170 152 152" fill="none" stroke-width="7"/>
+
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>

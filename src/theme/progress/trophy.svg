@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Trophy"><title>Trophy</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M34 34 C14 34 12 62 40 70" fill="none" stroke-width="8"/><path d="M94 34 C114 34 116 62 88 70" fill="none" stroke-width="8"/>
+<path d="M30 18 H98 V46 C98 70 82 84 64 84 C46 84 30 70 30 46Z" fill="#FFD23F"/>
+<rect x="56" y="82" width="16" height="16" fill="#E8A100"/>
+<rect x="34" y="96" width="60" height="22" rx="6" fill="#FF7A1A"/>
+<polygon points="64.0,29.0 59.2,39.4 47.8,40.7 56.2,48.5 54.0,59.8 64.0,54.2 74.0,59.8 71.8,48.5 80.2,40.7 68.8,39.4" fill="#FFFFFF" stroke-width="4"/>
+<path d="M40 26 V44" stroke="#FFFFFF" stroke-width="6" opacity=".85"/>
+
+</g></svg>

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Clean room"><title>Clean room</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<line x1="88" y1="12" x2="56" y2="70" stroke-width="10"/>
+<line x1="88" y1="12" x2="56" y2="70" stroke="#8A5A3B" stroke-width="4"/>
+<path d="M44 62 L72 78 L60 118 Q40 120 20 104Z" fill="#FFD23F"/>
+<path d="M40 82 L30 106 M52 88 L42 114" stroke-width="4"/>
+<rect x="42" y="60" width="32" height="14" rx="4" fill="#FF7A1A" transform="rotate(30 58 67)"/>
+<path d="M100 49 Q100 62 113 62 Q100 62 100 75 Q100 62 87 62 Q100 62 100 49Z" fill="#19C3C8" stroke-width="4"/><path d="M98 91 Q98 100 107 100 Q98 100 98 109 Q98 100 89 100 Q98 100 98 91Z" fill="#FFD23F" stroke-width="4"/><path d="M22 20 Q22 30 32 30 Q22 30 22 40 Q22 30 12 30 Q22 30 22 20Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

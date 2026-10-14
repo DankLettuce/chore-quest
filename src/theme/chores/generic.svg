@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Chore"><title>Chore</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<rect x="20" y="16" width="88" height="104" rx="10" fill="#FFFFFF"/>
+<rect x="44" y="8" width="40" height="18" rx="6" fill="#8B5CF6"/>
+<path d="M34 50 L42 58 L56 42" fill="none" stroke="#2FBF71" stroke-width="7"/>
+<line x1="64" y1="52" x2="94" y2="52" stroke="#B8C4E8" stroke-width="7"/>
+<path d="M34 80 L42 88 L56 72" fill="none" stroke="#2FBF71" stroke-width="7"/>
+<line x1="64" y1="82" x2="94" y2="82" stroke="#B8C4E8" stroke-width="7"/>
+<polygon points="98.0,84.0 92.4,96.2 79.0,97.8 88.9,107.0 86.2,120.2 98.0,113.6 109.8,120.2 107.1,107.0 117.0,97.8 103.6,96.2" fill="#FFD23F" stroke-width="5"/>
+</g></svg>

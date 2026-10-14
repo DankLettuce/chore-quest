@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Swim"><title>Swim</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M6 92 Q22 80 38 92 T70 92 T102 92 T134 92 V128 H6Z" fill="#19C3C8" stroke-width="5"/>
+<path d="M6 112 Q22 100 38 112 T70 112 T102 112" fill="none" stroke="#FFFFFF" stroke-width="4"/>
+<path d="M8 50 H120" stroke="#10183A" stroke-width="12"/><path d="M8 50 H120" stroke="#FF7A1A" stroke-width="5"/>
+<ellipse cx="40" cy="50" rx="24" ry="20" fill="#4D8BFF"/><ellipse cx="88" cy="50" rx="24" ry="20" fill="#4D8BFF"/>
+<path d="M56 50 Q64 42 72 50" fill="none" stroke-width="6"/>
+<path d="M28 42 Q34 36 42 38 M76 42 Q82 36 90 38" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+</g></svg>

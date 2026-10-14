@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Take out trash"><title>Take out trash</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M26 46 H102 L94 116 Q93 120 88 120 H40 Q35 120 34 116Z" fill="#6BDB4B"/>
+<line x1="50" y1="60" x2="52" y2="106"/><line x1="64" y1="60" x2="64" y2="106"/><line x1="78" y1="60" x2="76" y2="106"/>
+<rect x="18" y="30" width="92" height="16" rx="6" fill="#4CB83A" transform="rotate(-8 64 38)"/>
+<path d="M52 26 Q60 12 72 22" fill="none" transform="rotate(-8 64 38)"/>
+</g></svg>

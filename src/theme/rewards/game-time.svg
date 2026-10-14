@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Game time"><title>Game time</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M30 44 H98 C112 44 120 54 122 68 L126 96 C128 110 112 118 102 108 L88 92 H40 L26 108 C16 118 0 110 2 96 L6 68 C8 54 16 44 30 44Z" fill="#8B5CF6"/>
+<rect x="24" y="64" width="30" height="10" rx="3" fill="#FFFFFF" stroke-width="4"/><rect x="34" y="54" width="10" height="30" rx="3" fill="#FFFFFF" stroke-width="4"/>
+<rect x="34" y="64" width="10" height="10" fill="#FFFFFF" stroke="none"/>
+<circle cx="96" cy="60" r="7" fill="#FFD23F" stroke-width="4"/><circle cx="96" cy="82" r="7" fill="#6BDB4B" stroke-width="4"/>
+<circle cx="85" cy="71" r="7" fill="#19C3C8" stroke-width="4"/><circle cx="107" cy="71" r="7" fill="#FF7A1A" stroke-width="4"/>
+
+</g></svg>

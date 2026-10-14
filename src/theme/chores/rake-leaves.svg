@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Rake leaves"><title>Rake leaves</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M22 102 Q14 54 60 26 Q78 66 60 96 Q44 112 22 102Z" fill="#FF7A1A"/>
+<path d="M22 102 Q40 70 56 38 M36 78 L22 68 M44 62 L58 70" fill="none" stroke-width="4"/>
+<path d="M68 112 Q70 72 110 58 Q118 92 98 108 Q84 118 68 112Z" fill="#FFD23F"/>
+<path d="M68 112 Q86 88 106 66" fill="none" stroke-width="4"/>
+<path d="M78 26 Q96 14 112 26 Q98 42 78 26Z" fill="#FF7A1A" stroke-width="5"/>
+</g></svg>

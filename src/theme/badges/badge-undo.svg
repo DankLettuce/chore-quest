@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Undo"><title>Undo</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#B8C4E8"/>
+<path d="M44 52 H76 Q96 52 96 72 Q96 92 76 92 H54" fill="none" stroke-width="11"/>
+<path d="M50 32 L28 52 L50 72Z" fill="#10183A"/>
+</g></svg>

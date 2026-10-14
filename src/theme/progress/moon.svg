@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Bedtime"><title>Bedtime</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M76 10 Q34 14 30 58 Q30 102 74 110 Q100 114 116 92 Q66 96 60 52 Q58 26 76 10Z" fill="#FFD23F"/>
+<circle cx="56" cy="80" r="4" fill="#E8A100" stroke-width="0"/><circle cx="44" cy="54" r="5" fill="#E8A100" stroke-width="0"/>
+<path d="M96 17 Q96 30 109 30 Q96 30 96 43 Q96 30 83 30 Q96 30 96 17Z" fill="#FFFFFF" stroke-width="4"/><path d="M110 54 Q110 62 118 62 Q110 62 110 70 Q110 62 102 62 Q110 62 110 54Z" fill="#19C3C8" stroke-width="4"/><path d="M18 16 Q18 24 26 24 Q18 24 18 32 Q18 24 10 24 Q18 24 18 16Z" fill="#FFFFFF" stroke-width="4"/>
+</g></svg>

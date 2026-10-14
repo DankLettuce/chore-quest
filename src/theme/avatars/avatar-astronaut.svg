@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Astronaut kid">
+<title>Astronaut kid</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#19C3C8"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="52.0,42.0 49.4,48.4 42.5,48.9 47.7,53.4 46.1,60.1 52.0,56.5 57.9,60.1 56.3,53.4 61.5,48.9 54.6,48.4" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="206.0,56.0 203.9,61.1 198.4,61.5 202.6,65.1 201.3,70.5 206.0,67.6 210.7,70.5 209.4,65.1 213.6,61.5 208.1,61.1" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="214.0,173.0 212.1,177.5 207.3,177.8 211.0,181.0 209.9,185.7 214.0,183.2 218.1,185.7 217.0,181.0 220.7,177.8 215.9,177.5" fill="#FFFFFF" stroke="none" opacity="0.9"/>
+
+<path d="M40 270 C40 206 80 186 128 186 C176 186 216 206 216 270Z" fill="#FFFFFF"/>
+<rect x="106" y="210" width="44" height="30" rx="8" fill="#FF7A1A"/>
+<circle cx="56" cy="122" r="16" fill="#FF7A1A"/><circle cx="200" cy="122" r="16" fill="#FF7A1A"/>
+<circle cx="128" cy="118" r="74" fill="#FFFFFF"/>
+<rect x="74" y="74" width="108" height="94" rx="44" fill="#F3C9A6"/>
+<path d="M78 106 C82 82 102 74 128 74 C154 74 174 82 178 106 C160 98 146 92 128 98 C110 92 96 98 78 106Z" fill="#4A2E1C" stroke="none"/>
+<path d="M78 106 C96 98 110 92 128 98 C146 92 160 98 178 106" fill="none" stroke="#10183A" stroke-width="5"/>
+<path d="M120 84 Q126 90 124 96" fill="none" stroke="#392315" stroke-width="4"/>
+<rect x="74" y="74" width="108" height="94" rx="44" fill="none"/>
+<circle cx="110" cy="122" r="7" fill="#10183A" stroke="none"/><circle cx="146" cy="122" r="7" fill="#10183A" stroke="none"/>
+<circle cx="112.5" cy="119.5" r="2.4" fill="#fff" stroke="none"/><circle cx="148.5" cy="119.5" r="2.4" fill="#fff" stroke="none"/>
+<circle cx="96" cy="140" r="7" fill="#FF8FA3" stroke="none" opacity=".5"/><circle cx="160" cy="140" r="7" fill="#FF8FA3" stroke="none" opacity=".5"/>
+<path d="M114 142 Q128 156 142 142" fill="none" stroke-width="6"/>
+<path d="M88 92 Q96 82 110 80" fill="none" stroke="#FFFFFF" stroke-width="7" opacity=".85"/>
+
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>

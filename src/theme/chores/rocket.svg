@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Rocket"><title>Rocket</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M44 86 Q26 90 22 112 Q40 108 46 96Z" fill="#FF7A1A"/><path d="M84 86 Q102 90 106 112 Q88 108 82 96Z" fill="#FF7A1A"/>
+<path d="M54 98 Q64 126 74 98Z" fill="#FFD23F"/>
+<path d="M64 6 Q92 26 88 70 L84 98 H44 L40 70 Q36 26 64 6Z" fill="#F5F7FF"/>
+<path d="M50 20 Q64 4 78 20Z" fill="#FF7A1A" stroke-width="5"/>
+<circle cx="64" cy="50" r="13" fill="#19C3C8"/>
+<path d="M44 98 H84" stroke-width="7"/>
+<path d="M108 24 Q108 34 118 34 Q108 34 108 44 Q108 34 98 34 Q108 34 108 24Z" fill="#FFD23F" stroke-width="4"/><path d="M18 42 Q18 50 26 50 Q18 50 18 58 Q18 50 10 50 Q18 50 18 42Z" fill="#19C3C8" stroke-width="4"/>
+</g></svg>

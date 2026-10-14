@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="I did it"><title>I did it</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#FF7A1A"/>
+<path d="M34 104 V70 Q24 46 30 36 Q36 32 40 44 L44 58 V28 Q44 20 50 20 Q56 20 56 28 V56 V22 Q56 14 62 14 Q68 14 68 22 V56 V28 Q68 20 74 20 Q80 20 80 28 V60 V40 Q80 34 86 34 Q92 34 92 40 V76 Q92 96 80 104Z" fill="#F2C9A0" stroke-width="5"/>
+
+</g></svg>

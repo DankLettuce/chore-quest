@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Socks"><title>Socks</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M22 12 H52 V70 L66 82 Q74 92 64 102 Q54 112 42 104 L22 86Z" fill="#4D8BFF"/>
+<rect x="18" y="8" width="38" height="14" rx="5" fill="#FFFFFF"/>
+<path d="M22 40 H52 M22 52 H52" stroke="#FFD23F" stroke-width="5"/>
+<path d="M66 22 H96 V80 L110 92 Q118 102 108 112 Q98 122 86 114 L66 96Z" fill="#FF7A1A"/>
+<rect x="62" y="18" width="38" height="14" rx="5" fill="#FFFFFF"/>
+<path d="M66 50 H96 M66 62 H96" stroke="#FFD23F" stroke-width="5"/>
+</g></svg>

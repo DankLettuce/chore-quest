@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Chosen kids"><title>Chosen kids</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#FFD23F"/>
+<path d="M22 104 Q24 72 50 72 Q76 72 78 104Z" fill="#19C3C8"/><circle cx="50" cy="48" r="17" fill="#F2C9A0"/><path d="M33 46 Q34 28 52 30 Q66 30 67 44 Q56 38 33 46Z" fill="#8A5A3B" stroke-width="4"/>
+<path d="M66 104 Q70 78 88 78 Q106 78 108 104Z" fill="#8B5CF6"/><circle cx="88" cy="60" r="13" fill="#F2C9A0"/><path d="M75 58 Q76 44 90 46 Q100 46 101 56 Q92 52 75 58Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

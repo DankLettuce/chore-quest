@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Shoes"><title>Shoes</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M10 92 V54 Q10 44 20 44 H40 Q46 62 62 62 L86 70 Q118 76 118 96 V100 H10Z" fill="#FF7A1A"/>
+<rect x="6" y="96" width="116" height="16" rx="8" fill="#FFFFFF"/>
+<path d="M42 62 L50 54 M52 66 L60 58 M62 69 L70 61" stroke="#FFFFFF" stroke-width="5"/>
+<path d="M78 84 Q96 82 110 90" fill="none" stroke="#FFD23F" stroke-width="5"/>
+<path d="M98 18 Q98 30 110 30 Q98 30 98 42 Q98 30 86 30 Q98 30 98 18Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

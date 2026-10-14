@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Brush teeth"><title>Brush teeth</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<g transform="translate(14 4) scale(.85)"><path d="M30 14 C18 14 12 24 14 38 C16 50 20 56 22 70 C23 78 32 78 34 70 L38 54 L46 54 L50 70 C52 78 61 78 62 70 C64 56 68 50 70 38 C72 24 66 14 54 14 C48 14 46 18 42 18 C38 18 36 14 30 14Z" fill="#FFFFFF"/></g>
+<rect x="10" y="98" width="80" height="16" rx="8" fill="#FF7A1A"/>
+<rect x="80" y="94" width="38" height="22" rx="8" fill="#FF7A1A"/>
+<rect x="84" y="74" width="30" height="20" rx="4" fill="#FFFFFF"/>
+<path d="M94 76 V92 M104 76 V92" stroke-width="4"/>
+<path d="M82 74 Q84 62 96 64 Q104 54 114 64 Q120 66 116 74Z" fill="#19C3C8" stroke-width="5"/>
+<path d="M104 14 Q104 26 116 26 Q104 26 104 38 Q104 26 92 26 Q104 26 104 14Z" fill="#FFD23F" stroke-width="4"/><path d="M84 39 Q84 46 91 46 Q84 46 84 53 Q84 46 77 46 Q84 46 84 39Z" fill="#19C3C8" stroke-width="4"/>
+</g></svg>

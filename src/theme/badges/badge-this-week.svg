@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="This week"><title>This week</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#8B5CF6"/>
+<rect x="28" y="32" width="72" height="66" rx="10" fill="#FFFFFF"/><rect x="28" y="32" width="72" height="20" rx="8" fill="#FF7A1A"/>
+<path d="M46 24 V40 M82 24 V40" stroke-width="7"/><rect x="40" y="64" width="48" height="20" rx="6" fill="#FFD23F" stroke-width="5"/>
+</g></svg>

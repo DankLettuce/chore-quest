@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Rocket pilot">
+<title>Rocket pilot</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#FFD23F"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="52.0,49.0 49.6,54.7 43.4,55.2 48.1,59.3 46.7,65.3 52.0,62.0 57.3,65.3 55.9,59.3 60.6,55.2 54.4,54.7" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="212.0,69.0 210.1,73.5 205.3,73.8 209.0,77.0 207.9,81.7 212.0,79.2 216.1,81.7 215.0,77.0 218.7,73.8 213.9,73.5" fill="#FFFFFF" stroke="none" opacity="0.9"/>
+
+<path d="M44 270 C44 208 82 192 128 192 C174 192 212 208 212 270Z" fill="#8A5A3B"/>
+<path d="M84 194 Q128 218 172 194 L178 212 Q128 240 78 212Z" fill="#FF7A1A"/>
+<path d="M66 128 C66 80 94 58 128 58 C162 58 190 80 190 128 Z" fill="#8A5A3B"/>
+<rect x="64" y="118" width="30" height="46" rx="14" fill="#8A5A3B"/><rect x="162" y="118" width="30" height="46" rx="14" fill="#8A5A3B"/>
+<ellipse cx="128" cy="140" rx="46" ry="46" fill="#FBDCC6"/>
+<defs><clipPath id="hp"><circle cx="128" cy="140" r="46"/></clipPath></defs>
+<g clip-path="url(#hp)" stroke-width="4">
+<path d="M76 104 L100 104 Q90 126 100 150 Q82 146 78 128Z" fill="#F2C14E"/>
+<path d="M180 104 L156 104 Q166 126 156 150 Q174 146 178 128Z" fill="#F2C14E"/>
+<path d="M80 100 L176 100 L176 122 Q170.0 132.8 164.0 122 Q158.0 136.4 152.0 122 Q146.0 134.0 140.0 122 Q134.0 137.0 128.0 122 Q122.0 137.0 116.0 122 Q110.0 134.0 104.0 122 Q98.0 136.4 92.0 122 Q86.0 132.8 80.0 122 Z" fill="#F2C14E"/>
+</g>
+<ellipse cx="128" cy="140" rx="46" ry="46" fill="none"/>
+<circle cx="110" cy="146" r="7" fill="#10183A" stroke="none"/><circle cx="146" cy="146" r="7" fill="#10183A" stroke="none"/>
+<circle cx="112.5" cy="143.5" r="2.4" fill="#fff" stroke="none"/><circle cx="148.5" cy="143.5" r="2.4" fill="#fff" stroke="none"/>
+<circle cx="98" cy="162" r="7" fill="#FF8FA3" stroke="none" opacity=".55"/><circle cx="158" cy="162" r="7" fill="#FF8FA3" stroke="none" opacity=".55"/>
+<path d="M114 164 Q128 178 142 164" fill="none" stroke-width="6"/>
+<rect x="66" y="92" width="124" height="16" rx="8" fill="#5A3A26"/>
+<circle cx="104" cy="100" r="20" fill="#19C3C8"/><circle cx="152" cy="100" r="20" fill="#19C3C8"/>
+<path d="M96 92 Q100 86 108 86" fill="none" stroke="#FFFFFF" stroke-width="5"/><path d="M144 92 Q148 86 156 86" fill="none" stroke="#FFFFFF" stroke-width="5"/>
+
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>

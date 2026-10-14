@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Reading"><title>Reading</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+
+<path d="M64 36 C50 26 30 24 12 28 V104 C30 100 50 102 64 112Z" fill="#19C3C8"/>
+<path d="M64 36 C78 26 98 24 116 28 V104 C98 100 78 102 64 112Z" fill="#FF7A1A"/>
+<path d="M64 36 V112"/>
+<path d="M24 46 Q38 44 52 50 M24 62 Q38 60 52 66 M76 50 Q90 44 104 46 M76 66 Q90 60 104 62" stroke="#FFFFFF" stroke-width="5" fill="none"/>
+<path d="M64 4 Q64 14 74 14 Q64 14 64 24 Q64 14 54 14 Q64 14 64 4Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

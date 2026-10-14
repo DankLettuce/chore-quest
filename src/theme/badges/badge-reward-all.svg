@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Reward when all done"><title>Reward when all done</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#6BDB4B"/>
+<path d="M38 112 V18" stroke-width="8"/>
+<path d="M38 22 H96 V70 H38Z" fill="#FFFFFF"/>
+<path d="M38 22 H58 V38 H38Z M77 22 H96 V38 H77Z M58 38 H77 V54 H58Z M38 54 H58 V70 H38Z M77 54 H96 V70 H77Z" fill="#10183A" stroke-width="0"/>
+</g></svg>

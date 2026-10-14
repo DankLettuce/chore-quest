@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Week bonus"><title>Week bonus</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="64" r="54" fill="#19C3C8"/>
+<polygon points="64,20 76,48 106,50 83,70 90,100 64,84 38,100 45,70 22,50 52,48" fill="#FFD23F"/>
+<path d="M100 12 Q100 22 110 22 Q100 22 100 32 Q100 22 90 22 Q100 22 100 12Z" fill="#FFFFFF" stroke-width="4"/>
+</g></svg>

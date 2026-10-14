@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Star captain, brown hair">
+<title>Star captain, brown hair</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#6D3FE6"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="56.0,71.0 53.6,76.7 47.4,77.2 52.1,81.3 50.7,87.3 56.0,84.0 61.3,87.3 59.9,81.3 64.6,77.2 58.4,76.7" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="214.0,163.0 212.1,167.5 207.3,167.8 211.0,171.0 209.9,175.7 214.0,173.2 218.1,175.7 217.0,171.0 220.7,167.8 215.9,167.5" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="40.0,144.0 38.4,147.8 34.3,148.1 37.4,150.8 36.5,154.9 40.0,152.7 43.5,154.9 42.6,150.8 45.7,148.1 41.6,147.8" fill="#FFFFFF" stroke="none" opacity="0.9"/>
+
+<path d="M184 66 L224 40" stroke="#FF7A1A" stroke-width="12" fill="none"/><path d="M190 76 L236 64" stroke="#FFD23F" stroke-width="10" fill="none"/>
+<circle cx="180" cy="74" r="16" fill="#FFD23F"/>
+<path d="M44 270 C44 208 82 192 128 192 C174 192 212 208 212 270Z" fill="#FF7A1A"/>
+<path d="M104 194 L128 222 L152 194" fill="#FFFFFF"/>
+<polygon points="160.0,212.0 156.3,220.9 146.7,221.7 154.0,227.9 151.8,237.3 160.0,232.3 168.2,237.3 166.0,227.9 173.3,221.7 163.7,220.9" fill="#FFD23F" stroke="#10183A" stroke-width="5" opacity="1"/>
+<circle cx="128" cy="140" r="50" fill="#FBDCC6"/>
+<defs><clipPath id="hc"><circle cx="128" cy="140" r="50"/></clipPath></defs>
+<g clip-path="url(#hc)" stroke-width="4">
+<path d="M74 112 L182 112 L182 126 Q173.0 143.6 164.0 126 Q155.0 140.4 146.0 126 Q137.0 145.2 128.0 126 Q119.0 140.4 110.0 126 Q101.0 143.6 92.0 126 Q83.0 140.4 74.0 126 Z" fill="#A8713F"/>
+<path d="M76 118 L94 118 Q88 134 92 148 Q80 144 78 132Z" fill="#A8713F"/>
+<path d="M180 118 L162 118 Q168 134 164 148 Q176 144 178 132Z" fill="#A8713F"/>
+</g>
+<circle cx="128" cy="140" r="50" fill="none"/>
+<circle cx="110" cy="148" r="7" fill="#10183A" stroke="none"/><circle cx="146" cy="148" r="7" fill="#10183A" stroke="none"/>
+<circle cx="112.5" cy="145.5" r="2.4" fill="#fff" stroke="none"/><circle cx="148.5" cy="145.5" r="2.4" fill="#fff" stroke="none"/>
+<circle cx="96" cy="164" r="7" fill="#FF8FA3" stroke="none" opacity=".55"/><circle cx="160" cy="164" r="7" fill="#FF8FA3" stroke="none" opacity=".55"/>
+<path d="M114 166 Q128 180 142 166" fill="none" stroke-width="6"/>
+<path d="M74 116 C70 76 96 66 128 66 C160 66 186 76 182 116Z" fill="#19C3C8"/>
+<rect x="68" y="106" width="120" height="18" rx="9" fill="#0E8E92"/>
+<polygon points="128.0,75.0 124.0,84.5 113.7,85.4 121.6,92.1 119.2,102.1 128.0,96.8 136.8,102.1 134.4,92.1 142.3,85.4 132.0,84.5" fill="#FFD23F" stroke="#10183A" stroke-width="4" opacity="1"/>
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Shower"><title>Shower</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M18 120 V30 Q18 12 36 12 H62 Q76 12 76 26" fill="none" stroke="#10183A" stroke-width="12"/>
+<path d="M18 120 V30 Q18 12 36 12 H62 Q76 12 76 26" fill="none" stroke="#B8C4E8" stroke-width="4"/>
+<path d="M50 42 Q50 26 76 26 Q102 26 102 42Z" fill="#B8C4E8"/>
+<path d="M60 56 L56 70 M76 56 V72 M92 56 L96 70 M66 84 L62 98 M86 84 L90 98 M76 90 V106" stroke="#4D8BFF" stroke-width="6"/>
+<circle cx="56" cy="110" r="5" fill="#19C3C8" stroke-width="3"/><circle cx="98" cy="112" r="5" fill="#19C3C8" stroke-width="3"/>
+</g></svg>

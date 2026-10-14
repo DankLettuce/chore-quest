@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Set the table"><title>Set the table</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="64" cy="68" r="38" fill="#FFFFFF"/><circle cx="64" cy="68" r="22" fill="#DDE5F4" stroke-width="5"/>
+<path d="M14 30 V54 Q14 62 20 62 V112 M8 30 V50 M20 30 V50" fill="none" stroke-width="6"/>
+<path d="M114 112 V70 Q122 66 120 44 Q118 26 112 26 Q106 30 106 48 Q106 66 114 70" fill="#B8C4E8"/>
+<path d="M64 6 Q64 16 74 16 Q64 16 64 26 Q64 16 54 16 Q64 16 64 6Z" fill="#FFD23F" stroke-width="4"/>
+</g></svg>

@@ -1,0 +1,34 @@
+/* Space Explorers celebration effects — pair with celebrate.js. No dependencies. */
+.cel-layer { position: fixed; inset: 0; pointer-events: none; overflow: hidden; z-index: 9999; }
+.cel-piece, .cel-rocket, .cel-puff { position: absolute; left: 0; top: 0; will-change: transform, opacity; }
+.cel-piece svg, .cel-rocket svg { display: block; width: 100%; height: 100%; }
+.cel-puff { border-radius: 50%; background: #FFD23F; }
+
+/* the checked item pops */
+.cel-pop { animation: cel-pop .45s cubic-bezier(.3,1.7,.5,1); }
+@keyframes cel-pop { 0% { transform: scale(1); } 35% { transform: scale(1.08) rotate(-1deg); } 65% { transform: scale(.97); } 100% { transform: scale(1); } }
+
+/* "All done!" overlay */
+.cel-done { position: fixed; inset: 0; z-index: 10000; display: grid; place-items: center; text-align: center;
+  background: radial-gradient(circle at 50% 45%, #24336B 0%, #0B1433 70%); color: #fff; cursor: pointer;
+  animation: cel-fade .3s ease-out; }
+.cel-done__inner { display: grid; justify-items: center; gap: 12px; padding: 24px; }
+.cel-done__trophy { width: min(44vmin, 280px); height: auto; animation: cel-trophy .9s cubic-bezier(.3,1.6,.5,1) both; }
+.cel-done__title { margin: 0; font: 700 clamp(48px, 10vmin, 96px)/1 var(--font-display, "Fredoka", system-ui, sans-serif); color: #FFD23F;
+  text-shadow: 0 6px 0 #10183A; animation: cel-title .6s .25s cubic-bezier(.3,1.6,.5,1) both; }
+.cel-done__sub { margin: 0; font: 700 clamp(22px, 4vmin, 32px)/1.3 var(--font-body, "Andika", system-ui, sans-serif); color: #fff; }
+.cel-done__btn { margin-top: 16px; min-height: 72px; padding: 0 40px; border-radius: 999px; border: 4px solid #10183A;
+  background: #FF7A1A; color: #10183A; font: 600 28px/1 var(--font-display, "Fredoka", system-ui, sans-serif); box-shadow: 0 6px 0 #10183A; cursor: pointer; }
+.cel-done.is-closing { animation: cel-fade .25s ease-in reverse forwards; }
+@keyframes cel-fade { from { opacity: 0; } to { opacity: 1; } }
+@keyframes cel-trophy { 0% { transform: scale(.2) rotate(-20deg); opacity: 0; } 100% { transform: scale(1) rotate(0); opacity: 1; } }
+@keyframes cel-title { 0% { transform: translateY(30px) scale(.6); opacity: 0; } 100% { transform: none; opacity: 1; } }
+.cel-done__trophy.is-wiggle { animation: cel-wiggle 1.6s ease-in-out infinite; }
+@keyframes cel-wiggle { 0%,100% { transform: rotate(0); } 25% { transform: rotate(-5deg) scale(1.03); } 75% { transform: rotate(5deg) scale(1.03); } }
+
+@media (prefers-reduced-motion: reduce) {
+  .cel-pop { animation: cel-glow .6s ease-out; }
+  @keyframes cel-glow { 0% { box-shadow: 0 0 0 0 rgba(47,191,113,.9); } 100% { box-shadow: 0 0 0 14px rgba(47,191,113,0); } }
+  .cel-done, .cel-done__trophy, .cel-done__title, .cel-done.is-closing { animation: none; }
+  .cel-done__trophy.is-wiggle { animation: none; }
+}

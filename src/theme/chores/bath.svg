@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Bath"><title>Bath</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="40" cy="38" r="12" fill="#B8E9FF" stroke-width="5"/><circle cx="64" cy="24" r="9" fill="#B8E9FF" stroke-width="5"/><circle cx="84" cy="42" r="13" fill="#B8E9FF" stroke-width="5"/>
+<path d="M28 18 V58" stroke-width="0"/>
+<path d="M10 62 H118 V72 Q118 104 88 104 H40 Q10 104 10 72Z" fill="#FFFFFF"/>
+<rect x="6" y="56" width="116" height="12" rx="6" fill="#19C3C8"/>
+<path d="M30 102 L24 118 M98 102 L104 118" stroke-width="7"/>
+<path d="M20 74 Q30 84 40 74" fill="none" stroke="#4D8BFF" stroke-width="5"/>
+</g></svg>

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Art"><title>Art</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<path d="M64 12 Q118 12 118 58 Q118 82 96 82 Q84 82 84 92 Q86 106 76 112 Q66 118 50 114 Q10 104 10 62 Q12 12 64 12Z" fill="#F2C9A0"/>
+<circle cx="40" cy="44" r="10" fill="#FF7A1A" stroke-width="4"/><circle cx="66" cy="32" r="10" fill="#FFD23F" stroke-width="4"/><circle cx="92" cy="44" r="10" fill="#4D8BFF" stroke-width="4"/><circle cx="34" cy="74" r="10" fill="#6BDB4B" stroke-width="4"/>
+<ellipse cx="62" cy="88" rx="9" ry="8" fill="#0B1433" stroke-width="4"/>
+</g></svg>

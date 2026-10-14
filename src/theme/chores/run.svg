@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Run and play"><title>Run and play</title>
+<g stroke="#10183A" stroke-width="6" stroke-linecap="round" stroke-linejoin="round">
+<circle cx="78" cy="20" r="14" fill="#F2C9A0"/>
+<path d="M72 36 L60 72" stroke-width="22"/><path d="M72 36 L60 72" stroke="#6BDB4B" stroke-width="11"/>
+<path d="M70 42 L92 54 L106 44 M68 44 L48 52 L36 42" fill="none" stroke-width="14"/>
+<path d="M70 42 L92 54 L106 44 M68 44 L48 52 L36 42" fill="none" stroke="#F2C9A0" stroke-width="6"/>
+<path d="M60 72 L82 88 L80 114 M60 72 L44 96 L20 98" fill="none" stroke-width="16"/>
+<path d="M60 72 L82 88 L80 114 M60 72 L44 96 L20 98" fill="none" stroke="#4D8BFF" stroke-width="8"/>
+<path d="M8 58 H28 M14 72 H34 M4 86 H22" stroke="#8A97C4" stroke-width="8"/>
+</g></svg>

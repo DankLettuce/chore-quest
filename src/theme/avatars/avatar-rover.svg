@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" width="256" height="256" role="img" aria-label="Moon-rover driver">
+<title>Moon-rover driver</title>
+<defs><clipPath id="c"><circle cx="128" cy="128" r="118"/></clipPath></defs>
+<circle cx="128" cy="128" r="118" fill="#4D8BFF"/>
+<g clip-path="url(#c)" stroke="#10183A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+<polygon points="54.0,56.0 51.4,62.4 44.5,62.9 49.7,67.4 48.1,74.1 54.0,70.5 59.9,74.1 58.3,67.4 63.5,62.9 56.6,62.4" fill="#FFFFFF" stroke="none" opacity="0.9"/><polygon points="206.0,50.0 203.9,55.1 198.4,55.5 202.6,59.1 201.3,64.5 206.0,61.6 210.7,64.5 209.4,59.1 213.6,55.5 208.1,55.1" fill="#FFFFFF" stroke="none" opacity="0.9"/><circle cx="60" cy="140" r="12" fill="#FFFFFF" stroke="none" opacity=".35"/>
+
+<path d="M84 196 C84 176 104 166 128 166 C152 166 172 176 172 196Z" fill="#19C3C8"/>
+<circle cx="128" cy="118" r="44" fill="#FBDCC6"/>
+<defs><clipPath id="hr"><circle cx="128" cy="118" r="44"/></clipPath></defs>
+<g clip-path="url(#hr)" stroke-width="4">
+<path d="M80 114 L100 114 Q92 132 98 148 Q84 144 82 130Z" fill="#A8713F"/>
+<path d="M176 114 L156 114 Q164 132 158 148 Q172 144 174 130Z" fill="#A8713F"/>
+<path d="M80 112 L176 112 L176 125 Q160.0 147.0 144.0 125 Q128.0 147.0 112.0 125 Q96.0 147.0 80.0 125 Z" fill="#A8713F"/>
+</g>
+<circle cx="128" cy="118" r="44" fill="none"/>
+<path d="M80 112 A48 48 0 0 1 176 112 L186 112 Q190 122 180 122 L76 122 Q66 122 70 112Z" fill="#FF7A1A"/>
+<path d="M128 66 L128 112" stroke="#FFFFFF" stroke-width="9" fill="none"/>
+<path d="M80 112 A48 48 0 0 1 176 112" fill="none"/>
+<circle cx="112" cy="139" r="7" fill="#10183A" stroke="none"/><circle cx="144" cy="139" r="7" fill="#10183A" stroke="none"/>
+<circle cx="114.5" cy="136.5" r="2.4" fill="#fff" stroke="none"/><circle cx="146.5" cy="136.5" r="2.4" fill="#fff" stroke="none"/>
+<path d="M116 150 Q128 161 140 150" fill="none" stroke-width="6"/>
+<line x1="194" y1="180" x2="194" y2="130"/><path d="M194 130 L220 140 L194 150Z" fill="#FFD23F"/>
+<path d="M-10 238 Q60 222 128 236 Q196 250 270 232 L270 270 L-10 270Z" fill="#C9D1E3"/>
+<rect x="46" y="176" width="164" height="44" rx="16" fill="#FFD23F"/>
+<circle cx="80" cy="222" r="26" fill="#3A4466"/><circle cx="80" cy="222" r="9" fill="#C9D1E3" stroke-width="5"/>
+<circle cx="176" cy="222" r="26" fill="#3A4466"/><circle cx="176" cy="222" r="9" fill="#C9D1E3" stroke-width="5"/>
+
+</g>
+<circle cx="128" cy="128" r="118" fill="none" stroke="#10183A" stroke-width="10"/>
+</svg>
