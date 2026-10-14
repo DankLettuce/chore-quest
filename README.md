@@ -10,6 +10,14 @@ A kid-friendly chore tracker for a shared family iPad (or any phone/tablet). Kid
 
 More: [parent chore list](docs/screenshots/ipad-p-04-parent-chores.png), [weekly history](docs/screenshots/ipad-p-08-parent-history.png), [iPad landscape](docs/screenshots/ipad-l-01-kid-today.png). Screenshots use the bundled sample kids (Alex and Sam).
 
+## Set it up with your AI assistant
+
+Don't want to touch a terminal? Give your AI assistant (Grok Bot, Claude, Cursor, ChatGPT, etc.) this prompt:
+
+> Set up Chore Quest for my family using https://github.com/DankLettuce/chore-quest. Follow AGENTS.md.
+
+It will check your computer, help you create a free Cloudflare account if you don't have one, deploy the app, ask about your kids, chores and rewards, and show you how to put it on your tablet's home screen. The steps it follows are in [AGENTS.md](AGENTS.md); the manual instructions are below.
+
 ## Features
 
 - **Any number of kids**, each with an avatar and colour; one-tap switching on a shared device.
@@ -31,7 +39,7 @@ More: [parent chore list](docs/screenshots/ipad-p-04-parent-chores.png), [weekly
 
 ## Self-hosting on Cloudflare Pages + D1
 
-Requirements: Node 20+, a Cloudflare account.
+Requirements: Node 22+ (needed by wrangler 4), a Cloudflare account (the free plan is enough).
 
 ```bash
 git clone <this repo> chore-quest && cd chore-quest
@@ -90,4 +98,4 @@ Chrome is expected at `/usr/bin/google-chrome`; set `CHROME_PATH` otherwise. Tes
 
 ## License
 
-MIT — see [LICENSE](LICENSE). Copyright (c) 2026 Gavin McMahon.
+MIT — see [LICENSE](LICENSE). Copyright (c) 2026 DankLettuce.
