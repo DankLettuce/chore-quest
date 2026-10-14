@@ -2,6 +2,11 @@
 
 A kid-friendly chore tracker for a shared family iPad (or any phone/tablet). Kids tap their avatar, check off chores, watch their progress rocket fill up, and earn screen time, money and trophies. Grown-ups manage everything behind a PIN. Runs as an installable PWA on **Cloudflare Pages + Pages Functions + D1** — free tier friendly, no servers to run.
 
+
+[![Watch the 25-second Chore Quest promo](docs/media/promo-poster.jpg)](https://github.com/DankLettuce/chore-quest/raw/main/docs/media/chore-quest-promo.mp4)
+
+*▶ Click to watch the 25-second promo.*
+
 | iPad | iPhone |
 |---|---|
 | ![Kid view on iPad](docs/screenshots/ipad-p-01-kid-today.png) | ![Kid view on iPhone](docs/screenshots/iphone-01-kid-today.png) |
